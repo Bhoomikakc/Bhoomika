@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://futureskillsprime.in//sites/default/files/2021-03/Fundamentals%20of%20Data%20Analytics_Desktop_01_1200x630-16-min.jpg)
 <h1 align="center">Hi 👋, I'm Bhoomika K C</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" scr="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
